@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "20221023_EcologiaEspacial", "20221023_EcologiaEspacial\20221023_EcologiaEspacial.vbproj", "{AA8BADBF-8060-4301-AF69-BBDCC0687AD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8BADBF-8060-4301-AF69-BBDCC0687AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8BADBF-8060-4301-AF69-BBDCC0687AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8BADBF-8060-4301-AF69-BBDCC0687AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8BADBF-8060-4301-AF69-BBDCC0687AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D622914E-1C7F-4991-8E9E-336576D4A74C}
+	EndGlobalSection
+EndGlobal

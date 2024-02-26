@@ -1,0 +1,53 @@
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.exe
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.deps.json
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.runtimeconfig.json
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.dll
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.pdb
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.vbproj.AssemblyReference.cache
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\_20221023_EcologiaEspacial.Form1.resources
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\_20221023_EcologiaEspacial.Resources.resources
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.vbproj.GenerateResource.cache
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.AssemblyInfoInputs.cache
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.AssemblyInfo.vb
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.vbproj.CoreCompileInputs.cache
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.dll
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\refint\20221023_EcologiaEspacial.dll
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.pdb
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.genruntimeconfig.cache
+C:\Users\alanc\source\repos\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\ref\20221023_EcologiaEspacial.dll
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.exe
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.deps.json
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.runtimeconfig.json
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.dll
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.pdb
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.vbproj.AssemblyReference.cache
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\_20221023_EcologiaEspacial.Form1.resources
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\_20221023_EcologiaEspacial.Resources.resources
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.vbproj.GenerateResource.cache
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.AssemblyInfoInputs.cache
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.AssemblyInfo.vb
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.vbproj.CoreCompileInputs.cache
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.dll
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\refint\20221023_EcologiaEspacial.dll
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.pdb
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.genruntimeconfig.cache
+C:\Users\lugia\OneDrive\Escritorio\20221023_EcologiaEspacial\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\ref\20221023_EcologiaEspacial.dll
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.exe
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.deps.json
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.runtimeconfig.json
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.dll
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\bin\Debug\net6.0-windows\20221023_EcologiaEspacial.pdb
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\_20221023_EcologiaEspacial.Form1.resources
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\_20221023_EcologiaEspacial.Resources.resources
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.vbproj.GenerateResource.cache
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.AssemblyInfo.vb
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.vbproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.dll
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\refint\20221023_EcologiaEspacial.dll
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.pdb
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\20221023_EcologiaEspacial.genruntimeconfig.cache
+C:\Users\Jean\Desktop\Space game\20221023_EcologiaEspacial\obj\Debug\net6.0-windows\ref\20221023_EcologiaEspacial.dll
